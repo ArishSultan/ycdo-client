@@ -1,0 +1,19 @@
+button.v-btn {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0 !important;
+    text-transform: capitalize !important;
+    font-family: google-sans, sans-serif !important;
+}
+
+button.primary {
+    padding: 0 25px !important;
+}
+
+.v-card {
+    border-radius: 8px !important;
+    border: 1px solid rgba(0, 0, 0, 0.14) !important;
+}
+
+.v-input--checkbox { font-family: "Ubuntu Mono", sans-serif !important }
+.v-input--radio-group { font-family: "Ubuntu Mono", sans-serif !important }

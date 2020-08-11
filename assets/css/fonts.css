@@ -1,0 +1,17 @@
+@font-face {
+    font-weight: normal;
+    font-family: google-sans;
+    src: url("../fonts/google-sans/400.ttf");
+}
+
+@font-face {
+    font-weight: 600;
+    font-family: google-sans;
+    src: url("../fonts/google-sans/600.ttf");
+}
+
+@font-face {
+    font-weight: 400;
+    font-family: "Roboto";
+    src: url("../fonts/roboto/400.ttf");
+}

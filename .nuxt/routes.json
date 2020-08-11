@@ -1,0 +1,282 @@
+[
+  {
+    "name": "doctor",
+    "path": "/doctor",
+    "component": "/home/arish/New YCDO/pages/doctor.vue",
+    "chunkName": "pages/doctor",
+    "_name": "_62689ae3"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/arish/New YCDO/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_491bff46"
+  },
+  {
+    "name": "laboratory",
+    "path": "/laboratory",
+    "component": "/home/arish/New YCDO/pages/laboratory/index.vue",
+    "chunkName": "pages/laboratory/index",
+    "_name": "_424baa8c"
+  },
+  {
+    "name": "loading",
+    "path": "/loading",
+    "component": "/home/arish/New YCDO/pages/loading.vue",
+    "chunkName": "pages/loading",
+    "_name": "_ac0326b0"
+  },
+  {
+    "name": "reception",
+    "path": "/reception",
+    "component": "/home/arish/New YCDO/pages/reception/index.vue",
+    "chunkName": "pages/reception/index",
+    "_name": "_0dd2d1fe"
+  },
+  {
+    "name": "administrator-branches",
+    "path": "/administrator/branches",
+    "component": "/home/arish/New YCDO/pages/administrator/branches/index.vue",
+    "chunkName": "pages/administrator/branches/index",
+    "_name": "_52794519"
+  },
+  {
+    "name": "administrator-doctors",
+    "path": "/administrator/doctors",
+    "component": "/home/arish/New YCDO/pages/administrator/doctors/index.vue",
+    "chunkName": "pages/administrator/doctors/index",
+    "_name": "_6bd63b61"
+  },
+  {
+    "name": "administrator-pending-messages",
+    "path": "/administrator/pending-messages",
+    "component": "/home/arish/New YCDO/pages/administrator/pending-messages.vue",
+    "chunkName": "pages/administrator/pending-messages",
+    "_name": "_5d59d9f0"
+  },
+  {
+    "name": "administrator-register-user-faces",
+    "path": "/administrator/register-user-faces",
+    "component": "/home/arish/New YCDO/pages/administrator/register-user-faces.vue",
+    "chunkName": "pages/administrator/register-user-faces",
+    "_name": "_72c6ea70"
+  },
+  {
+    "name": "administrator-rooms",
+    "path": "/administrator/rooms",
+    "component": "/home/arish/New YCDO/pages/administrator/rooms/index.vue",
+    "chunkName": "pages/administrator/rooms/index",
+    "_name": "_47f3baa5"
+  },
+  {
+    "name": "administrator-users",
+    "path": "/administrator/users",
+    "component": "/home/arish/New YCDO/pages/administrator/users/index.vue",
+    "chunkName": "pages/administrator/users/index",
+    "_name": "_9b51cc96"
+  },
+  {
+    "name": "auth-sign-in",
+    "path": "/auth/sign-in",
+    "component": "/home/arish/New YCDO/pages/auth/sign-in.vue",
+    "chunkName": "pages/auth/sign-in",
+    "_name": "_396aff12"
+  },
+  {
+    "name": "laboratory-diagnostics",
+    "path": "/laboratory/diagnostics",
+    "component": "/home/arish/New YCDO/pages/laboratory/diagnostics/index.vue",
+    "chunkName": "pages/laboratory/diagnostics/index",
+    "_name": "_06512bd2"
+  },
+  {
+    "name": "reception-duplicate-token",
+    "path": "/reception/duplicate-token",
+    "component": "/home/arish/New YCDO/pages/reception/duplicate-token.vue",
+    "chunkName": "pages/reception/duplicate-token",
+    "_name": "_0eacac63"
+  },
+  {
+    "name": "reception-generate-token",
+    "path": "/reception/generate-token",
+    "component": "/home/arish/New YCDO/pages/reception/generate-token.vue",
+    "chunkName": "pages/reception/generate-token",
+    "_name": "_ce7a6eb6"
+  },
+  {
+    "name": "reception-third-turn",
+    "path": "/reception/third-turn",
+    "component": "/home/arish/New YCDO/pages/reception/third-turn.vue",
+    "chunkName": "pages/reception/third-turn",
+    "_name": "_dc5c89b2"
+  },
+  {
+    "name": "administrator-branches-add",
+    "path": "/administrator/branches/add",
+    "component": "/home/arish/New YCDO/pages/administrator/branches/add.vue",
+    "chunkName": "pages/administrator/branches/add",
+    "_name": "_ea4815b0"
+  },
+  {
+    "name": "administrator-doctors-add",
+    "path": "/administrator/doctors/add",
+    "component": "/home/arish/New YCDO/pages/administrator/doctors/add.vue",
+    "chunkName": "pages/administrator/doctors/add",
+    "_name": "_cbdc4520"
+  },
+  {
+    "name": "administrator-report-tokens",
+    "path": "/administrator/report/tokens",
+    "component": "/home/arish/New YCDO/pages/administrator/report/tokens.vue",
+    "chunkName": "pages/administrator/report/tokens",
+    "_name": "_4faffe02"
+  },
+  {
+    "name": "administrator-rooms-add",
+    "path": "/administrator/rooms/add",
+    "component": "/home/arish/New YCDO/pages/administrator/rooms/add.vue",
+    "chunkName": "pages/administrator/rooms/add",
+    "_name": "_59634498"
+  },
+  {
+    "name": "administrator-users-add",
+    "path": "/administrator/users/add",
+    "component": "/home/arish/New YCDO/pages/administrator/users/add.vue",
+    "chunkName": "pages/administrator/users/add",
+    "_name": "_9bc37e78"
+  },
+  {
+    "name": "laboratory-diagnostics-add",
+    "path": "/laboratory/diagnostics/add",
+    "component": "/home/arish/New YCDO/pages/laboratory/diagnostics/add.vue",
+    "chunkName": "pages/laboratory/diagnostics/add",
+    "_name": "_77db41a6"
+  },
+  {
+    "name": "pharmacy-diagnostic-items-add",
+    "path": "/pharmacy/diagnostic-items/add",
+    "component": "/home/arish/New YCDO/pages/pharmacy/diagnostic-items/add.vue",
+    "chunkName": "pages/pharmacy/diagnostic-items/add",
+    "_name": "_88d11d18"
+  },
+  {
+    "name": "pharmacy-medicines-add",
+    "path": "/pharmacy/medicines/add",
+    "component": "/home/arish/New YCDO/pages/pharmacy/medicines/add.vue",
+    "chunkName": "pages/pharmacy/medicines/add",
+    "_name": "_59526073"
+  },
+  {
+    "name": "pharmacy-stock-purchase-diagnostic-items",
+    "path": "/pharmacy/stock-purchase/diagnostic-items",
+    "component": "/home/arish/New YCDO/pages/pharmacy/stock-purchase/diagnostic-items.vue",
+    "chunkName": "pages/pharmacy/stock-purchase/diagnostic-items",
+    "_name": "_9449b04e"
+  },
+  {
+    "name": "pharmacy-stock-purchase-medicines",
+    "path": "/pharmacy/stock-purchase/medicines",
+    "component": "/home/arish/New YCDO/pages/pharmacy/stock-purchase/medicines.vue",
+    "chunkName": "pages/pharmacy/stock-purchase/medicines",
+    "_name": "_53ad8d6c"
+  },
+  {
+    "name": "pharmacy-stock-purchase-surgical-items",
+    "path": "/pharmacy/stock-purchase/surgical-items",
+    "component": "/home/arish/New YCDO/pages/pharmacy/stock-purchase/surgical-items.vue",
+    "chunkName": "pages/pharmacy/stock-purchase/surgical-items",
+    "_name": "_5e3e2f0e"
+  },
+  {
+    "name": "pharmacy-stock-diagnostic-items",
+    "path": "/pharmacy/stock/diagnostic-items",
+    "component": "/home/arish/New YCDO/pages/pharmacy/stock/diagnostic-items.vue",
+    "chunkName": "pages/pharmacy/stock/diagnostic-items",
+    "_name": "_7bc7eabb"
+  },
+  {
+    "name": "pharmacy-stock-medicines",
+    "path": "/pharmacy/stock/medicines",
+    "component": "/home/arish/New YCDO/pages/pharmacy/stock/medicines.vue",
+    "chunkName": "pages/pharmacy/stock/medicines",
+    "_name": "_7709deb0"
+  },
+  {
+    "name": "pharmacy-stock-surgical-items",
+    "path": "/pharmacy/stock/surgical-items",
+    "component": "/home/arish/New YCDO/pages/pharmacy/stock/surgical-items.vue",
+    "chunkName": "pages/pharmacy/stock/surgical-items",
+    "_name": "_3ce24270"
+  },
+  {
+    "name": "pharmacy-surgical-items-add",
+    "path": "/pharmacy/surgical-items/add",
+    "component": "/home/arish/New YCDO/pages/pharmacy/surgical-items/add.vue",
+    "chunkName": "pages/pharmacy/surgical-items/add",
+    "_name": "_053d8469"
+  },
+  {
+    "name": "reception-patients-add",
+    "path": "/reception/patients/add",
+    "component": "/home/arish/New YCDO/pages/reception/patients/add.vue",
+    "chunkName": "pages/reception/patients/add",
+    "_name": "_38d1ccb8"
+  },
+  {
+    "name": "administrator-branches-id-edit",
+    "path": "/administrator/branches/:id/edit",
+    "component": "/home/arish/New YCDO/pages/administrator/branches/_id/edit.vue",
+    "chunkName": "pages/administrator/branches/_id/edit",
+    "_name": "_6efe7748"
+  },
+  {
+    "name": "administrator-rooms-id-edit",
+    "path": "/administrator/rooms/:id/edit",
+    "component": "/home/arish/New YCDO/pages/administrator/rooms/_id/edit.vue",
+    "chunkName": "pages/administrator/rooms/_id/edit",
+    "_name": "_04b3863c"
+  },
+  {
+    "name": "administrator-users-id-edit",
+    "path": "/administrator/users/:id/edit",
+    "component": "/home/arish/New YCDO/pages/administrator/users/_id/edit.vue",
+    "chunkName": "pages/administrator/users/_id/edit",
+    "_name": "_f2b1e5a8"
+  },
+  {
+    "name": "laboratory-diagnostics-id-edit",
+    "path": "/laboratory/diagnostics/:id/edit",
+    "component": "/home/arish/New YCDO/pages/laboratory/diagnostics/_id/edit.vue",
+    "chunkName": "pages/laboratory/diagnostics/_id/edit",
+    "_name": "_50b1498a"
+  },
+  {
+    "name": "pharmacy-diagnostic-items-id-edit",
+    "path": "/pharmacy/diagnostic-items/:id?/edit",
+    "component": "/home/arish/New YCDO/pages/pharmacy/diagnostic-items/_id/edit.vue",
+    "chunkName": "pages/pharmacy/diagnostic-items/_id/edit",
+    "_name": "_d47e6b08"
+  },
+  {
+    "name": "pharmacy-medicines-id-edit",
+    "path": "/pharmacy/medicines/:id?/edit",
+    "component": "/home/arish/New YCDO/pages/pharmacy/medicines/_id/edit.vue",
+    "chunkName": "pages/pharmacy/medicines/_id/edit",
+    "_name": "_50ce62dd"
+  },
+  {
+    "name": "pharmacy-surgical-items-id-edit",
+    "path": "/pharmacy/surgical-items/:id?/edit",
+    "component": "/home/arish/New YCDO/pages/pharmacy/surgical-items/_id/edit.vue",
+    "chunkName": "pages/pharmacy/surgical-items/_id/edit",
+    "_name": "_85ad6eb2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/arish/New YCDO/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_53c2c384"
+  }
+]

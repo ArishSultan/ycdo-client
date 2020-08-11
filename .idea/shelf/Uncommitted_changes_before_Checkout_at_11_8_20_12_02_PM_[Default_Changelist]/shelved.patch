@@ -1,0 +1,28 @@
+Index: pages/reception/patients/index.vue
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><template>\n$END$\n</template>\n\n<script>\nexport default {\nname: \"index\"\n}\n</script>\n\n<style scoped>\n\n</style>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pages/reception/patients/index.vue	(revision fa6f6bdaee61ebb734c5ef13c702073e092321c0)
++++ pages/reception/patients/index.vue	(date 1597126788206)
+@@ -1,13 +1,11 @@
+ <template>
+-$END$
++  <PatientsDataView />
+ </template>
+ 
+ <script>
++import PatientsDataView from "~/components/Reception/Patient/DataView";
+ export default {
+-name: "index"
++name: "index",
++  components: { PatientsDataView }
+ }
+ </script>
+-
+-<style scoped>
+-
+-</style>
+\ No newline at end of file
